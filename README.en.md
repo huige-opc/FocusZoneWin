@@ -14,9 +14,13 @@ A full-screen dark overlay covers the desktop, with a bright "spotlight" cut out
 
 ## Usage
 
-```
-FocusZoneWin.exe
-```
+Download from [Releases](https://github.com/huige-opc/FocusZoneWin/releases), unzip, and double-click `FocusZoneWin.exe`.
+
+> **Requirements:**
+> - Windows 10 2004 (build 19041) or later
+> - [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) required (will prompt to download if missing)
+>
+> On first launch Windows may show "Windows protected your PC" — click "More info" > "Run anyway" (no code signing certificate).
 
 On launch, a tray icon appears in the bottom-right of the taskbar and a floating control bar shows up on screen.
 

@@ -16,7 +16,11 @@
 
 从 [Releases](https://github.com/huige-opc/FocusZoneWin/releases) 下载最新版，解压后双击 `FocusZoneWin.exe` 即可运行。
 
-> ⚠️ 首次运行可能提示"Windows 已保护你的电脑"，点击"更多信息" → "仍要运行"即可。这是因为本工具没有购买代码签名证书，不影响使用。你也可以在 Releases 页面查看 VirusTotal 检测结果确认安全。
+> **环境要求：**
+> - Windows 10 2004 (build 19041) 及以上
+> - 需要安装 [.NET 8 桌面运行时](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)（如未安装运行时会提示下载）
+>
+> ⚠️ 首次运行可能提示"Windows 已保护你的电脑"，点击"更多信息" → "仍要运行"即可。这是因为本工具没有购买代码签名证书，不影响使用。
 
 ![控制条：选区 / 遮罩 / 暗度 / 颜色 / 线型 / 录屏隐藏 / 退出](docs/toolbar.png)
 
